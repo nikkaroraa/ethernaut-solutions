@@ -7,6 +7,6 @@ libs = ['lib']
 rinkeby = "${RINKEBY_RPC_URL}"
 
 [etherscan]
-rinkeby = { key = "${ETHERSCAN_KEY}" }
+rinkeby = { key = "${ETHERSCAN_API_KEY}" }
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
